@@ -151,3 +151,6 @@ dmypy.json
 
 # Project-specific files to be excluded
 /data
+/2011csv
+/2011dbf
+/2011xlsx
